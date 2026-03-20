@@ -1,0 +1,8 @@
+venv/env/.venv
+pycache/*.pyc
+.env
+/Dataset_Raw/
+Dockerfile*
+docker-compose*.yml
+.dockerignore
+

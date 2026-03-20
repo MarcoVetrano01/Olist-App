@@ -1,0 +1,10 @@
+.env
+__pycache__
+/Dataset_Raw/
+test.ipynb
+/exports/
+*.json
+*.csv
+*.pkl
+*.pth
+*.safetensors
